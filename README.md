@@ -5,8 +5,7 @@ I'm a frontend developer passionate about building beautiful web experiences.
 ## 🔧 Technologies I use
 - React, Vite, Bootstrap, Tailwind CSS
 - Node.js, ExpressJS
-
-#![Austine's GitHub stats](https://github-readme-stats.vercel.app/api?username=AustineBill&show_icons=true&theme=dark)
+- AWS, Heroku,Vercel
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AustineBill&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
