@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Austine
 
-I'm a frontend developer passionate about building beautiful web experiences.
+I'm a full stack developer passionate about building beautiful web experiences.
 
 ## 🔧 Technologies I use
 - React, Vite, Bootstrap, Tailwind CSS
